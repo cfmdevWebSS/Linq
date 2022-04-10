@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\01. LinqGroupingIntro\bin\Debug\_01.LinqGroupingIntro.exe.config
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\01. LinqGroupingIntro\bin\Debug\_01.LinqGroupingIntro.exe
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\01. LinqGroupingIntro\bin\Debug\_01.LinqGroupingIntro.pdb
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\01. LinqGroupingIntro\obj\Debug\01. LinqGroupingIntro.csprojResolveAssemblyReference.cache
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\01. LinqGroupingIntro\obj\Debug\01. LinqGroupingIntro.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\01. LinqGroupingIntro\obj\Debug\_01.LinqGroupingIntro.exe
+C:\Courses\08. C# Linq\VS Code\02. GroupingLinqQueries\01. LinqGroupingIntro\obj\Debug\_01.LinqGroupingIntro.pdb
