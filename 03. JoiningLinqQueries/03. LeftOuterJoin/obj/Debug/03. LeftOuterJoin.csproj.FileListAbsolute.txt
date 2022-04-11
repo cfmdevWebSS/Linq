@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\03. LeftOuterJoin\bin\Debug\_03.LeftOuterJoin.exe.config
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\03. LeftOuterJoin\bin\Debug\_03.LeftOuterJoin.exe
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\03. LeftOuterJoin\bin\Debug\_03.LeftOuterJoin.pdb
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\03. LeftOuterJoin\obj\Debug\03. LeftOuterJoin.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\03. LeftOuterJoin\obj\Debug\_03.LeftOuterJoin.exe
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\03. LeftOuterJoin\obj\Debug\_03.LeftOuterJoin.pdb
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\03. LeftOuterJoin\obj\Debug\03. LeftOuterJoin.csprojResolveAssemblyReference.cache

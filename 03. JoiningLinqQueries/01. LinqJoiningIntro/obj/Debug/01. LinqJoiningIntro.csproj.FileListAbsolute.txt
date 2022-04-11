@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\01. LinqJoiningIntro\bin\Debug\_01.LinqJoiningIntro.exe.config
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\01. LinqJoiningIntro\bin\Debug\_01.LinqJoiningIntro.exe
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\01. LinqJoiningIntro\bin\Debug\_01.LinqJoiningIntro.pdb
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\01. LinqJoiningIntro\obj\Debug\01. LinqJoiningIntro.csprojResolveAssemblyReference.cache
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\01. LinqJoiningIntro\obj\Debug\01. LinqJoiningIntro.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\01. LinqJoiningIntro\obj\Debug\_01.LinqJoiningIntro.exe
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\01. LinqJoiningIntro\obj\Debug\_01.LinqJoiningIntro.pdb

@@ -1,0 +1,7 @@
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\02. GroupJoin\bin\Debug\_02.GroupJoin.exe.config
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\02. GroupJoin\bin\Debug\_02.GroupJoin.exe
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\02. GroupJoin\bin\Debug\_02.GroupJoin.pdb
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\02. GroupJoin\obj\Debug\02. GroupJoin.csproj.CoreCompileInputs.cache
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\02. GroupJoin\obj\Debug\_02.GroupJoin.exe
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\02. GroupJoin\obj\Debug\_02.GroupJoin.pdb
+C:\Courses\08. C# Linq\VS Code\03. JoiningLinqQueries\02. GroupJoin\obj\Debug\02. GroupJoin.csprojResolveAssemblyReference.cache
